@@ -39,4 +39,4 @@ git clone https://github.com/f8q8/luci-app-autoreboot package/luci-app-autoreboo
 #git clone -b main --depth 1 https://github.com/xiaorouji/openwrt-passwall.git
 
 
-popd
+
