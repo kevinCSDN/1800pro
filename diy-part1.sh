@@ -31,8 +31,6 @@ git clone https://github.com/f8q8/luci-app-autoreboot package/luci-app-autoreboo
 #git clone https://github.com/xiaorouji/openwrt-passwall-packages package/helloworld
 
 #克隆的源码放在small文件夹,预先建立small文件夹
-mkdir package/small
-pushd package/small
 
 #克隆源码
 
